@@ -29,8 +29,7 @@ public class AppTest {
 		List<String> str = Arrays.asList("adam", "don", "major", "kara", "susha", "allam");
 		Boolean b = str.stream().anyMatch(s -> s.contains("con"));
 		System.out.println(b);
-		// adding a comment
-		// adding anther
+
 	}
 
 }
