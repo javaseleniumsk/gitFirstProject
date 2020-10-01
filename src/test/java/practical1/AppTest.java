@@ -30,6 +30,7 @@ public class AppTest {
 		Boolean b = str.stream().anyMatch(s -> s.contains("con"));
 		System.out.println(b);
 		// adding comment to code
+		// X adding changes to code
 	}
 
 }
